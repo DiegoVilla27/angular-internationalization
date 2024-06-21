@@ -1,0 +1,9 @@
+{
+  "HELLO": "Hello {{ name }}",
+  "WELCOME": "Welcome",
+  "TITLE": "Welcome to my <strong>Angular</strong> application!<br>This is an amazing app which uses the latest <i>technologies</i>!",
+  "LANGUAGES": {
+    "SPANISH": "Spanish",
+    "ENGLISH": "English"
+  }
+}

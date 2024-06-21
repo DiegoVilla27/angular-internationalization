@@ -1,0 +1,27 @@
+hr {
+  margin: 20px 0px;
+}
+
+.buttons {
+  width: 100%;
+  display: flex;
+  gap: 10px;
+  button {
+    flex: 1;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-transform: uppercase;
+    cursor: pointer;
+    &:first-child {
+      background-color: #4338ca;
+    }
+    &:last-child {
+      background-color: #0a0a0a;
+    }
+  }
+}
